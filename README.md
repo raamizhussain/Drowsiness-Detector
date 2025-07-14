@@ -5,6 +5,11 @@ This Drowsiness Detection System is a real-time monitoring application that uses
 
 DEMO VIDEO LINK: https://drive.google.com/file/d/1LZ5RkTWKtUtyFxq2_HCEXTGEuzSnixiZ/view?usp=sharing
 
+<img width="939" height="769" alt="image" src="https://github.com/user-attachments/assets/e76d2a8c-00e8-48e8-9f61-d4b78a3b9ef6" />
+<img width="809" height="644" alt="image" src="https://github.com/user-attachments/assets/92320421-99bc-45cd-b961-6388ac2115ad" />
+
+
+
 ## Key Features
 
 ### 🎯 **Face Detection**
