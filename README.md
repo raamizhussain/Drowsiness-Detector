@@ -1,7 +1,7 @@
-# Face Landmarks Detection System
+# Drowsiness Detection System
 
 ## Overview
-This face landmarks detection system is a real-time monitoring application that uses your webcam to track 68 facial key points and analyze your alertness levels. It continuously measures your Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) to detect drowsiness, blinks, and yawns, providing instant visual and audio alerts when it detects signs of fatigue. The system displays live graphs showing your eye and mouth activity, maintains session statistics, and can save screenshots and logs of detection events - making it ideal for driver monitoring, student attention tracking, or any scenario where maintaining alertness is critical.
+This Drowsiness Detection System is a real-time monitoring application that uses your webcam to track 68 facial key points and analyze your alertness levels. It continuously measures your Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) to detect drowsiness, blinks, and yawns, providing instant visual and audio alerts when it detects signs of fatigue. The system displays live graphs showing your eye and mouth activity, maintains session statistics, and can save screenshots and logs of detection events - making it ideal for driver monitoring, student attention tracking, or any scenario where maintaining alertness is critical.
 
 DEMO VIDEO LINK: https://drive.google.com/file/d/1LZ5RkTWKtUtyFxq2_HCEXTGEuzSnixiZ/view?usp=sharing
 
